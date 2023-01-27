@@ -1,0 +1,15 @@
+Extensões úteis do React:
+
+React ES7 + React/Redux/React-Native snippets (dsznajder)
+
+============================================
+
+Configurar o emmet no VSCode:
+
+File > Preferences > Settings
+buscar por "emmet"
+adicionar em Emmet: Include languages -> 
+Key: javascript
+Value: javascriptreact
+
+reinicie o VSCODE
