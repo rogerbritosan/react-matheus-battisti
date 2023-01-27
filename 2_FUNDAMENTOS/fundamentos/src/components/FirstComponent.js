@@ -1,4 +1,6 @@
 // estilos
+// componentes
+import MyComponent from "./MyComponent"
 
 const FirstComponent = () => {
     // comentários podem vir aqui
@@ -16,6 +18,8 @@ const FirstComponent = () => {
             {/* mais comentários */}
             <h1>Meu primeiro componente</h1>
             <p className="teste">Meu texto</p>
+            <MyComponent />
+            <MyComponent />
         </div>
     )
 }
